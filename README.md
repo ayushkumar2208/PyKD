@@ -99,7 +99,7 @@ This project is under development. Available functionality and supported command
 
 **Ayush Kumar**
 
-GitHub: https://github.com/YOUR-USERNAME
+GitHub: https://github.com/ayushkumar2208
 
 ---
 
